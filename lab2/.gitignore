@@ -1,0 +1,7 @@
+*.idea
+*.pdf
+*.jpg
+*.png
+*.pkl
+flickr8k/
+checkpoints/
